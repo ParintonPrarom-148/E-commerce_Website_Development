@@ -1,55 +1,72 @@
-A basic e-commerce web application built with PHP, MySQL, and HTML/CSS/JavaScript. Designed as part of a university project to demonstrate full-stack development including product management, user interaction, and shopping cart functionality.
 
-📌 Features
-🖼️ Product listing with images and categories
+# 🛍️ E-commerce Website Development
 
-🔍 Product search functionality
+A basic e-commerce web application built with **PHP**, **MySQL**, and **HTML/CSS/JavaScript**. Designed as part of a university project to demonstrate full-stack development including product management, user interaction, and shopping cart functionality.
 
-🛒 Shopping cart management
+## 📌 Features
 
-📦 Product detail view
+-   🖼️ Product listing with images and categories
+    
+-   🔍 Product search functionality
+    
+-   🛒 Shopping cart management
+    
+-   📦 Product detail view
+    
+-   🛠️ Admin area for adding, editing, and deleting products
+    
+-   📂 Structured folder organization for frontend and backend logic
+    
 
-🛠️ Admin area for adding, editing, and deleting products
+## 🧰 Tech Stack
 
-📂 Structured folder organization for frontend and backend logic
+-   **Frontend**: HTML, SCSS, JavaScript
+    
+-   **Backend**: PHP
+    
+-   **Database**: MySQL
+    
+-   **Tools**: phpMyAdmin, Visual Studio Code
+    
 
-🧰 Tech Stack
-Frontend: HTML, SCSS, JavaScript
+## 🗂️ Folder Structure
 
-Backend: PHP
-
-Database: MySQL
-
-Tools: phpMyAdmin, Visual Studio Code
-
-🗂️ Folder Structure
 bash
-Copy
-Edit
-/admin_area         → Admin dashboard & product management
+
+
+
+`/admin_area         → Admin dashboard & product management
+
 /user_area          → User authentication (optional feature base)
-/functions          → Reusable PHP functions
-/scss, /css, /js    → Styling and scripting
+
+/functions          → Reusable PHP functions /scss, /css, /js    → Styling and scripting
+
 /img                → Image assets
+
 index.php           → Homepage
+
 shop.php            → Product listing
+
 cart.php            → Cart management
+
 product_details.php → Single product details
+
 about.php           → Store info
-mystoreotop.sql     → MySQL database structure
-🚀 Getting Started
-Import mystoreotop.sql into your MySQL server using phpMyAdmin
 
-Clone this repo or download the ZIP
+mystoreotop.sql     → MySQL database structure` 
 
-Place the project in your htdocs (XAMPP/Laragon)
+## 🚀 Getting Started
 
-Run the site via localhost/E-commerce_Website_Development
+1.  Import `mystoreotop.sql` into your MySQL server using phpMyAdmin
+    
+2.  Clone this repo or download the ZIP
+    
+3.  Place the project in your `htdocs` (XAMPP/Laragon)
+    
+4.  Run the site via `localhost/E-commerce_Website_Development`
+    
 
-📸 Screenshots
-(แนะนำใส่ภาพตัวอย่างหน้า Homepage, Shop, Cart ฯลฯ เพื่อให้น่าสนใจมากขึ้น)
+## 📸 Screenshots
 
-📚 Credits
-Developed by Parinton Prarom
-📧 Email: 29374parinton@gmail.com
-📘 Kasetsart University Sriracha Campus
+> [enter link description here](https://drive.google.com/file/d/1Te3QXNUG0x3Xu2UdFailHbWBfjMLNrd0/view?usp=sharing)
+
