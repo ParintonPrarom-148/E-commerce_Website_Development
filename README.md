@@ -55,16 +55,6 @@ about.php           → Store info
 
 mystoreotop.sql     → MySQL database structure` 
 
-## 🚀 Getting Started
-
-1.  Import `mystoreotop.sql` into your MySQL server using phpMyAdmin
-    
-2.  Clone this repo or download the ZIP
-    
-3.  Place the project in your `htdocs` (XAMPP/Laragon)
-    
-4.  Run the site via `localhost/E-commerce_Website_Development`
-    
 
 ## 📸 Screenshots
 
